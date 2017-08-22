@@ -1,8 +1,8 @@
 # Patrick Bower
 
-I'm a `London` based, `front end developer` with a `design background`. I have a passion for making websites that stand out. I currently working for an `agency for 5 years` using modern technologies and practices to deliver projects for a wide range of clients. Working for well known organisations my goals are for fast, scalable, accessible and eloquent code. Whether embedded in a team or working alone I believe in delivering consistent and quality work. While I currently focus solely on development, my design experience has given me a strong insight into UI/UX. This enables me to contribute ideas and helps me translate design into development. For more information please visit my site  [patrickbower.com](www.patrickbower.com)
+I'm a `London` based, `front end developer` with a `design background`. I have a passion for making websites that stand out. I currently working for an `agency for 5 years` using modern technologies and practices to deliver projects for a wide range of clients. Working for well known organisations my goals are for fast, scalable, accessible and eloquent code. Whether embedded in a team or working alone I believe in delivering consistent and quality work. While I currently focus solely on development, my design experience has given me a strong insight into UI/UX. This enables me to contribute ideas and helps me translate design into development. For more information please visit my site [patrickbower.com](www.patrickbower.com)
 
-## Experience
+## Experience
 
 - **Front End Developer at Digital Detox**
    `October 2013 - Present`
@@ -29,7 +29,7 @@ I'm a `London` based, `front end developer` with a `design background`. I have a
    `2001 - 2003`
    BA, Visual Communication
 
-## Contact
+## Contact
 - **Telephone** `07976 057 697`
 - **Email** `bower.patrick@gmail.com`
 - **Website** `www.patrickbower.com`
