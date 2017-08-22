@@ -31,5 +31,5 @@ I'm a `London` based, `front end developer` with a `design background`. I have a
 
 ## Contact
 - **Telephone** `07976 057 697`
-- **Email** `bower.patrick@gmail.com`
-- **Website** `www.patrickbower.com`
+- **[Email](bower.patrick@gmail.com)** `bower.patrick@gmail.com`
+- **[Website](www.patrickbower.com)** `www.patrickbower.com`
