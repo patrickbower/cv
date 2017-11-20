@@ -20,11 +20,11 @@ I'm a `London` based, `front end developer` with a `design background`. I have a
 
 ## Experience
 - **Front End Developer at Digital Detox**
-   `October 2013 - Present`
+   `October 2012 - Present`
    Web development consultancy specialising in bespoke scalable front-end projects for international brands such as Vodafone, Barclays and Bupa.
 
 - **Freelance Developer and Designer**
-   `August 2010 - September 2013`
+   `August 2010 - September 2012`
    Design and front-end development across a range of sectors. During this period I successfully delivered projects for London agencies including Firebrand, Glock and Cada, completed in-house contracts for brands such as FIFA and ASOS along with maintaining my own client list including U.A.L, Birmingham City Council and Projection Artworks.
 
 - **Designer at King**
