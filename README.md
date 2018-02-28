@@ -43,8 +43,3 @@ I'm a London based, front end developer with a design background. I have a passi
 - **Birmingham City University**
    `2001 - 2003`
    BA, Visual Communication
-
-## Contact
-- **Telephone** `07976 057 697`
-- **Email** `bower.patrick@gmail.com`
-- **Website** `www.patrickbower.com`
