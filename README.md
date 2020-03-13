@@ -34,23 +34,41 @@ I've been working as UX Engineer in London for the last two years focusing on so
 ## Experience
 
 - **Creative Technoloist at Buildit (a Wipro Company)**
-   `March 2018 - Present`
-   Consultancy working with Fortune 500 enterprises to startups, with clients including Lloyds Banking, GSK and BP. I help clients reach their business objectives, often using prototyping to measure customer behaviour and gather insights for digital transformation, continuous improvement, or entering new markets.
+
+
+`March 2018 - Present`
+
+Consultancy working with Fortune 500 enterprises to startups, with clients including Lloyds Banking, GSK and BP. I help clients reach their business objectives, often using prototyping to measure customer behaviour and gather insights for digital transformation, continuous improvement, or entering new markets.
+
 - **Front End Engineer at Digital Detox**
-   `October 2012 - February 2018`
-   Web development consultancy specialising in bespoke scalable front-end projects for international brands such as Vodafone, Barclays and Bupa.
+
+`October 2012 - February 2018`
+
+Web development consultancy specialising in bespoke scalable front-end projects for international brands such as Vodafone, Barclays and Bupa.
+
 - **Freelance Developer and Designer**
-   `August 2010 - September 2012`
-   Design and front-end development across a range of sectors. During this period I successfully delivered projects for London agencies including Firebrand, Glock and Cada, completed in-house contracts for brands such as FIFA and ASOS along with maintaining my own client list including U.A.L, Birmingham City Council and Pixel Artworks.
+
+`August 2010 - September 2012`
+
+Design and front-end development across a range of sectors. During this period I successfully delivered projects for London agencies including Firebrand, Glock and Cada, completed in-house contracts for brands such as FIFA and ASOS along with maintaining my own client list including U.A.L, Birmingham City Council and Pixel Artworks.
+
 - **Designer at King**
-   `January 2008 - June 2010`
-   Design across all web and print mediums, advertising and marketing campaigns as well as designing for mens street wear collections.
+
+`January 2008 - June 2010`
+
+Design across all web and print mediums, advertising and marketing campaigns as well as designing for mens street wear collections.
+
 - **Designer at Design Lab**
-   `February 2007 - December 2008`
-   Design and illustration for clients such as Universal Music, BBC, and THTC Clothing.
+
+`February 2007 - December 2008`
+
+Design and illustration for clients such as Universal Music, BBC, and THTC Clothing.
+
 - **Internships and Junior Designer roles**
-   `January 2004 - January 2007`
-   Gaining experience from Birmingham based agencies such as Z3, Slingshot, Pin Stripe and TakTak.
+
+`January 2004 - January 2007`
+
+Gaining experience from Birmingham based agencies such as Z3, Slingshot, Pin Stripe and TakTak.
 
 
 
